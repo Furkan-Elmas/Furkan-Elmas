@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Casual and Hyper-Casual Game Dev. with Unity
 - 🥅 2022 Goals: Learn more about CS50x
 - ⚡ Fun fact: I love to play guitar and playing video games (Add me on [Steam][steam])
-- 🖥️ Also Reach my projects at [Google Play][GooglePlay] and [itch.io][Itch.io]
+- 🖥️ Also reach my projects at [Google Play][GooglePlay] and [itch.io][Itch.io]
 
 
 
