@@ -1,6 +1,5 @@
-# Hi there 👋, I'm Furkan Elmas
+# Hi there 👋
 
-#### I'm 25 years old a Game Developer from Istanbul/Turkey
 - 🔭 I’m currently working on Unity3D
 - 🌱 I’m currently learning Casual and Hyper-Casual Game Dev. with Unity
 - 🥅 2022 Goals: Learn more about CS50x
