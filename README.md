@@ -40,9 +40,11 @@
 
 ---
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Furkan-Elmas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&locale=en&layout=compact" alt="furkan-elmas" /></p>
+
 <img align="left" alt="Furkan Elmas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Furkan-Elmas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Furkan-Elmas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&locale=en&layout=compact" alt="furkan-elmas" /></p>
+
 
 [GooglePlay]: https://play.google.com/store/apps/developer?id=Furkan+Elmas
 [steam]: https://steamcommunity.com/profiles/76561198264292068/
