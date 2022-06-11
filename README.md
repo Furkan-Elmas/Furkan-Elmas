@@ -7,6 +7,8 @@
 - ⚡ Fun fact: I love to play guitar and playing video games (Add me on [Steam][steam])
 - 🖥️ Read more about my projects at: [Google Play][GooglePlay] and [itch.io][Itch.io]
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkan-elmas&label=Profile%20views&color=0e75b6&style=flat" alt="furkan-elmas" /> </p>
+
 ### Connect with me:
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanelmas00" height="30" width="40" /></a>](https://linkedin.com/in/furkanelmas00)
@@ -39,6 +41,8 @@
 ---
 
 <img align="left" alt="Furkan Elmas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Furkan-Elmas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan-elmas&show_icons=true&locale=en&layout=compact" alt="furkan-elmas" /></p>
 
 [GooglePlay]: https://play.google.com/store/apps/developer?id=Furkan+Elmas
 [steam]: https://steamcommunity.com/profiles/76561198264292068/
