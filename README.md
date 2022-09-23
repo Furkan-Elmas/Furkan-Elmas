@@ -12,10 +12,6 @@
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanelmas00" height="30" width="40" /></a>](https://linkedin.com/in/furkanelmas00)
 &nbsp;
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkanelmas00" height="30" width="40" /></a>](https://twitter.com/furkanelmas00)
-&nbsp;
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan.elmas.00" height="30" width="40" /></a>](https://instagram.com/furkan.elmas.00)
-&nbsp;
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkanelmas321" height="30" width="40" /></a>](https://www.hackerrank.com/furkanelmas321)
 &nbsp;
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="la vita è bella#2119" height="30" width="40" /></a>](https://discordapp.com/users/355623231920799754)
