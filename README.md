@@ -1,8 +1,8 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on Unity3D
-- 🌱 I’m currently learning Casual and Hyper-Casual Game Dev. with Unity
-- 🥅 2022 Goals: Learn more about CS50x
+- 🌱 I’m currently learning Multiplayer, Casual Game Dev. with Unity and Nakama
+- 🥅 2023 Goals: Learn more about Unreal Engine and C++
 - ⚡ Fun fact: I love to play guitar and playing video games (Add me on [Steam][steam])
 - 🖥️ Also reach my projects at [Google Play][GooglePlay] and [itch.io][Itch.io]
 
