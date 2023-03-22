@@ -1,10 +1,8 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Unity3D
-- 🌱 I’m currently learning Multiplayer, Casual Game Dev. with Unity and Nakama
+- 🔭 I’m currently working on Unity3D and Nakama
+- 🌱 I’m currently learning data structures and algorithms
 - 🥅 2023 Goals: Learn more about Unreal Engine and C++
-- ⚡ Fun fact: I love to play guitar and playing video games (Add me on [Steam][steam])
-- 🖥️ Also reach my projects at [Google Play][GooglePlay] and [itch.io][Itch.io]
 
 
 
