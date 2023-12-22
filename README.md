@@ -1,8 +1,8 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Unity3D and Nakama
-- 🌱 I’m currently learning data structures and algorithms
-- 🥅 2023 Goals: Learn more about Unreal Engine and C++
+- 🔭 I’m currently working on Unity3D
+- 🌱 I’m currently learning Unreal Engine and C++
+- 🥅 2024 Goals: Learn more about LiveOps and cloud system
 
 
 
