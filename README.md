@@ -1,8 +1,6 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on Unity3D
-- 🌱 I’m currently learning Unreal Engine and C++
-- 🥅 2024 Goals: Learn more about LiveOps and cloud system
 
 
 
